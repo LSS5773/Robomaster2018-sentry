@@ -8,5 +8,4 @@
 ## hardware
 - MCU: STM32F427IIHx
 ## documentation
-[technical documentation]
-(https://github.com/LSS5773/Robomaster2018-sentry/blob/master/other/technical%20documentation.pdf)
+[technical documentation](https://github.com/LSS5773/Robomaster2018-sentry/blob/master/other/technical%20documentation.pdf)
