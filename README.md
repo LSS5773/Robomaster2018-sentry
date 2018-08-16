@@ -2,7 +2,7 @@
 - Zhejiang University
 - Team HelloWorld
 - By LSS
-![](https://github.com/LSS5773/Robomaster2018-sentry/blob/master/other/sentry%20ZJU.jpg)
+![](https://github.com/LSS5773/Robomaster2018-sentry/blob/master/other/ZJU-sentry.jpg)
 ## Software Environment
 - IDE: MDK-ARM V5
 ## Hardware
